@@ -1,6 +1,6 @@
 # Hi there and welcome to my profile 👋
 
-I'm Namoos — most people call me Moose. I'm a data scientist with a master's in Data Science & Artificial Intelligence, drawn to the part of this work where a messy dataset turns into something a person can actually act on.
+I'm Namoos — most people call me Moose. I'm an AI/ML engineer with a master's in Data Science & Artificial Intelligence, drawn to the part of this work where a messy dataset turns into something a person can actually act on.
 
 > "The goal is to turn data into information, and information into insight." — Carly Fiorina, former CEO of Hewlett-Packard
 
@@ -12,6 +12,6 @@ Both threads led to the same place: I wanted to make an impact analytically 📊
 
 Outside the terminal, you'll find me kickboxing 🥊 — the best teacher I've had in showing up on the days I don't feel like it — or deep in a sustainable fashion rabbit hole 🌱.
 
-⚡ Fun fact: [YOUR FUN FACT HERE]
+⚡ Fun fact: [I speak 7 languages]
 
 📫 [Portfolio](https://datascienceportfol.io/namoos99) · [LinkedIn](YOUR_LINKEDIN_URL)
