@@ -14,4 +14,39 @@ Outside the terminal, you'll find me kickboxing 🥊 — the best teacher I've h
 
 ⚡ Fun fact: [I speak 7 languages]
 
-📫 [Portfolio](https://datascienceportfol.io/namoos99) · [LinkedIn](YOUR_LINKEDIN_URL)
+📫 📫 [Website](https://namoos99.github.io) · [Portfolio](https://datascienceportfol.io/namoos99) · [LinkedIn](https://www.linkedin.com/in/namoos-haider/)
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>ML &amp; AI</th>
+    <th>Data &amp; DevOps</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" /> Python<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /> SQL / PostgreSQL<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /> React / Vite<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" /> HTML/CSS
+    </td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20" /> NumPy<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20" /> Pandas<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="20" height="20" /> scikit-learn<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" height="20" /> PyTorch<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" height="20" /> TensorFlow<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="20" height="20" /> Matplotlib<br>
+      <img src="https://cdn.simpleicons.org/claude" width="20" height="20" /> Claude API
+    </td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="20" height="20" /> PySpark<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="20" height="20" /> Airflow<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /> Docker<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20" height="20" /> Terraform<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20" height="20" /> GitHub Actions<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20" /> Jupyter / Colab
+    </td>
+  </tr>
+</table>
