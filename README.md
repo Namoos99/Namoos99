@@ -14,7 +14,7 @@ Outside the terminal, you'll find me kickboxing 🥊 — the best teacher I've h
 
 ⚡ Fun fact: [I speak 7 languages]
 
-📫 📫 [Website](https://namoos99.github.io) · [Portfolio](https://datascienceportfol.io/namoos99) · [LinkedIn](https://www.linkedin.com/in/namoos-haider/)
+📫  [Website](https://namoos99.github.io) · [Portfolio](https://datascienceportfol.io/namoos99) · [LinkedIn](https://www.linkedin.com/in/namoos-haider/)
 
 ## 💻 Tech Stack
 
