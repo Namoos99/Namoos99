@@ -1,4 +1,4 @@
-# Hi there and welcome to my profile 👋
+# Hi there and welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 
 I'm Namoos — most people call me Moose. I'm an AI/ML engineer with a master's in Data Science & Artificial Intelligence, drawn to the part of this work where a messy dataset turns into something a person can actually act on.
 
